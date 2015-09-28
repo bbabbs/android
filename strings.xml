@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <string name="title">Note Title:</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_read_file">ReadFile</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
